@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://jf-godbout.github.io/files/vitae_jf-godbout_.pdf.
     
   - title: "CV"
     url: /cv/
