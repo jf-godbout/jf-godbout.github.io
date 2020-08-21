@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Jean-François Godbout"
   avatar           : "profile.png"
-  bio              : "Professor|Department of Political Science|University of Montreal"
+  bio              : | "Professor 
+  Department of Political Science 
+  University of Montreal"
   location         : "Montréal, Québec"
   employer         : 
   pubmed           : 
