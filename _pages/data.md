@@ -1,6 +1,9 @@
-layout: page
-title: ""
-permalink: /URL-PATH/
+---
+layout: archive
+title: "Data"
+permalink: /data/
+author_profile: true
+---
 
 **This page contains the data from my different research projects: **
 
