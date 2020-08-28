@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor at the University of Montreal in the Departement of Political Science. My research is primarily focused on legislative institutions and comparative political development. XXX. 
+I am a professor at the University of Montreal in the Departement of Political Science. My research is primarily focused on legislative institutions and comparative political development.
 
 Parliamentary Voting Records of the Canadian Parliament
 ======
