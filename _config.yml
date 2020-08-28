@@ -14,7 +14,7 @@ description              : &description "Professor, Department of Political Scie
 url                      : https://jf-godbout.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jf-godbout.github.io"
-teaser                   : "e1_1_marche_ste-anne.jpg"
+teaser                   : "/images/e1_1_marche_ste-anne.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
