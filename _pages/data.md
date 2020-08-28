@@ -11,6 +11,6 @@ author_profile: true
 [link](https://github.com/jf-godbout/data) 
 
 2. Canadian Parliament Voting Records 2015-2020 (House of Commons and Senate):
-link. 
+link
 
 3. Other. 
