@@ -4,7 +4,6 @@ title: "Data"
 permalink: /data/
 author_profile: true
 ---
-
 ## This page is under construction. It will contain the data from my different research projects:
 
 
