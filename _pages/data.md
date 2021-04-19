@@ -10,7 +10,3 @@ author_profile: true
 1. Canadian Parliament Voting Records 1867-2015 (House of Commons and Senate): 
 [link](https://github.com/jf-godbout/data) 
 
-2. Canadian Parliament Voting Records 2015-2020 (House of Commons and Senate):
-link
-
-3. Other. 
