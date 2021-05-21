@@ -18,3 +18,7 @@ On this site, you will find the voting records of all Members of the Canadian Ho
 Political Polarization and Text as Data
 ======
 I also study political polarization with the [*Complex Data Lab*](https://complexdatalabmcgill.github.io) at McGill University. You can find out more about this project [*here*](https://politicalpolarization.github.io).
+
+Bienvenu sur mon site web
+======
+Je suis professeur à l'Université de Montréal au Département de science politique. Mes recherches portent principalement sur les assemblées législatives et le développement des institutions politiques. Je m'intéresse également à la science des données et à l'apprentissage automatique. Je suis actuellement directeur du [*Microprogramme de 1er cycle en analyse des mégadonnées en sciences humaines et sociales*] (https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines -et-sociales /) à l'Université de Montréal.
