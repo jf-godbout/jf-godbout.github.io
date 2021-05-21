@@ -16,7 +16,7 @@ Parliamentary Voting Records of the Canadian Parliament
 ======
 On this site, you will find the voting records of all Members of the Canadian House of Commons and Senate who served between 1867-2020. Part of these data were used in my book [*Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/ca/lost-on-division-4) and in several other recent publications. 
 
-En consultant ce lien, vous trouverez les votes enregistrés de tous les députés de la Chambre des communes et du Sénat du Canada qui ont siégé entre 1867 et 2020. Une partie de ces données a été utilisée dans mon livre [* Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/ca/lost-on-division-4) et dans plusieurs autres publications récentes. 
+En consultant ce lien, vous trouverez les votes enregistrés de tous les députés de la Chambre des communes et du Sénat du Canada qui ont siégé entre 1867 et 2020. Une partie de ces données a été utilisée dans mon livre [*Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/ca/lost-on-division-4) et dans plusieurs autres publications récentes. 
 
 Political Polarization and Text as Data
 ======
