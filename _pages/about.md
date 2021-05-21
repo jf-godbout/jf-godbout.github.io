@@ -22,5 +22,5 @@ Political Polarization and Text as Data
 ======
 I also study political polarization with the [*Complex Data Lab*](https://complexdatalabmcgill.github.io) at McGill University. You can find out more about this project [*here*](https://politicalpolarization.github.io).
 
-J'étudie également la polarisation politique avec le [*Complex Data Lab*] (https://complexdatalabmcgill.github.io) de l'Université McGill. Vous pouvez en savoir plus sur ce projet [*ici*] (https://politicalpolarization.github.io).
+J'étudie également la polarisation politique avec le [*Complex Data Lab*](https://complexdatalabmcgill.github.io) de l'Université McGill. Vous pouvez en savoir plus sur ce projet [*ici*](https://politicalpolarization.github.io).
 
