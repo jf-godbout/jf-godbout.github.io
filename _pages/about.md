@@ -12,11 +12,11 @@ I am a professor at the University of Montreal in the Departement of Political S
 
 Political Polarization, misinformation, and Text as Data 
 ======
-I also study political polarization with the [Complex Data Lab](https://complexdatalabmcgill.github.io) at [Mila](https://mila.quebec/en/). You can find out more about this project [here](https://politicalpolarization.github.io).
+I also study political polarization and the spread of misinformation in online societies with the [Complex Data Lab](https://complexdatalabmcgill.github.io). Directed by [Reihaneh Rabbany](http://www.reirab.com), the lab's goal is to develop methodologies for analyzing complex datasets by leveraging techniques in large language models, graph mining, as well as unsupervised and supervised learning. Our interdisciplinary research initiatives bring together a group of computer scientists from [Mila](https://mila.quebec/en/) and political scientists from the [Université de Montréal](https://pol.umontreal.ca/accueil/) and [McGill](https://www.mcgill.ca/politicalscience/). You can find out more about these projects [here](https://politicalpolarization.github.io) and in the [current research rab](https://jf-godbout.github.io/publications/) above.
 
 Parliamentary Voting Records of the Canadian Parliament
 ======
-On this site, you will find the voting records of all Members of the Canadian House of Commons and Senate who served between 1867-2020. Part of these data were used in my award winning book [*Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/9781487524753/lost-on-division/) and in several other recent publications. 
+On this site, you will find the voting records of all Members of the Canadian House of Commons and Senate who served between 1867-2020. Part of these data were used in my award winning book [*Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/9781487524753/lost-on-division/) and in several other recent publications.
 
 
 
