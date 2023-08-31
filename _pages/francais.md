@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor at the University of Montreal in the Departement of Political Science. My research is primarily focused on legislative institutions and comparative political development. I also have an interest in data science and machine learning. I am currently Director of the [Big data analysis undergraduate program](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) at the University of Montreal.
+JEJE am a professor at the University of Montreal in the Departement of Political Science. My research is primarily focused on legislative institutions and comparative political development. I also have an interest in data science and machine learning. I am currently Director of the [Big data analysis undergraduate program](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) at the University of Montreal.
 
 Political Polarization, misinformation, and Text as Data 
 ======
