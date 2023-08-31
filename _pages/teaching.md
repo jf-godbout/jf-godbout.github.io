@@ -5,4 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Voir les plans de mes cours sur le [site web](https://pol.umontreal.ca/programmes-cours/cours-horaires/) du Département de science politique à l'Université de Montréal. 
+Voici deux liens pour consulter mes plans de cours pour la session d'automne 2023 : 
+1. [Institutions politiques canadiennes (POL-3500)](https://pol.umontreal.ca/programmes-cours/cours-horaires/).
+2. [Institutions parlementaires canadiennes (POL-6560)](_).
