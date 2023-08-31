@@ -7,7 +7,7 @@ author_profile: true
 
 Here are three recent working papers on predicting party affiliation and measuring ideological conflict on Twitter.
 							
-[*Open, Closed, or Small Language Models for Text Classification?*](https://arxiv.org/abs/2308.10092). Hao Yu, Zachary Yang, Kellin Pelrine, Jean-François Godbout, Reihaneh Rabbany. 
+[*Open, Closed, or Small Language Models for Text Classification?*](https://arxiv.org/abs/2308.10092) Hao Yu, Zachary Yang, Kellin Pelrine, Jean-François Godbout, Reihaneh Rabbany. 
 
 [*Party Prediction for Twitter*](https://arxiv.org/abs/2308.13699). Kellin Pelrine, Anne Imouza, Gabrielle Desrosiers-Brisebois, Sacha Lévy, Jacob-Junqi Tiang, Zachary Yang, Aarash Feizi, André Blais, Jean-François Godbout and Reihaneh Rabbany.
 
