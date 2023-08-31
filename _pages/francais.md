@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Bienvenue sur mon site web"
-excerpt: "À propos de moi"
+permalink: /francais/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Je suis professeur à l'Université de Montréal au Département de science politique. Mes recherches sont principalement axées sur les institutions législatives et le développement politique comparé. Je m'intéresse également à la science des données et à l'apprentissage automatique. Je suis actuellement le [directeur du programme de premier cycle en analyse des mégadonnées](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) à l'Université de Montréal.
