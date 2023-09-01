@@ -16,7 +16,7 @@ I also study political polarization and the spread of misinformation in online s
 
 Parliamentary Voting Records and Canadian Political Development 
 ======
-On this [site](https://jf-godbout.github.io/data/), you will find the voting records of all Members of the Canadian House of Commons and Senate who served between 1867-2020. Part of these data were used in my award winning book [*Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/9781487524753/lost-on-division/) and in several other recent publications. I am currently researching the development of political parties and the electoral behaviour of the inhabitants of Lower Canada between 1792 and 1841, particularly based on voting records, parliamentary debates, and historical newspapers. My approach to studying these documents combines data science and machine learning tools. 
+On this [site](https://jf-godbout.github.io/data/), you will find the voting records of all Members of the Canadian House of Commons and Senate who served between 1867-2020. Part of these data were used in my award winning book [*Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/9781487524753/lost-on-division/) and in several other recent publications. I am currently researching the development of political parties and the electoral behaviour of the inhabitants of Lower Canada between 1792 and 1841 by focusing on voting records, parliamentary debates, and historical newspapers. My approach to studying these documents combines data science and machine learning tools. 
 
 
 
