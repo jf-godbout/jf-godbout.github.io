@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor at the Université de Montréal in the [Department of Political Science](https://pol.umontreal.ca/english/home/) and a visiting researcher at [Mila](https://mila.quebec/en/) - Quebec AI Institute. My research is primarily focused on data science, AI, and machine learning. I also have an interest in legislative institutions and comparative political development. I am currently Director of the [Big data analysis undergraduate program](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) at the Université de Montréal.
+I am a professor at the [Université de Montréal](https://umontreal.ca) in the [Department of Political Science](https://pol.umontreal.ca/english/home/) and a visiting researcher at [Mila](https://mila.quebec/en/) - Quebec AI Institute. My research is primarily focused on data science, AI, and machine learning. I also have an interest in legislative institutions and comparative political development. I am currently Director of the [Big data analysis undergraduate program](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) at the Université de Montréal.
 
-Political Polarization, Misinformation, and Text as Data 
+Political Polarization, Disinformation, and Text as Data 
 ======
 My most recent work studies political polarization and the spread of misinformation in online societies with the [Complex Data Lab](https://complexdatalabmcgill.github.io). Directed by [Reihaneh Rabbany](http://www.reirab.com), the lab's goal is to develop methodologies for analyzing complex datasets by leveraging techniques in large language models, graph mining, as well as unsupervised and supervised learning. Our interdisciplinary research initiatives bring together a group of computer scientists from [Mila](https://mila.quebec/en/) and political scientists from the [Université de Montréal](https://pol.umontreal.ca/accueil/) and [McGill](https://www.mcgill.ca/politicalscience/). You can find out more about these projects [here](https://politicalpolarization.github.io) and in my [current research section](https://jf-godbout.github.io/publications/) above.
 
