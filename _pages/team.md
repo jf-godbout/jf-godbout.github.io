@@ -25,9 +25,9 @@ Matthew Taylor is a PhD candidate in political science at the Université de Mon
 
 I am also collaborating with these students from Computer Science and Political Science on several different projects. 
 
-**Kelline Pelrine**
+**Kellin Pelrine**
 
-**Andreea Musulane**
+**Andreea Musulan**
 
 **Zachary Yang**
 
