@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-Here is a list of current student collaborators working under my supervision with their research interests. 
+Here is a list of current student working under my supervision at the Université de Montréal. 
 
 ### PhD Students
 **Matthew Taylor** 
@@ -20,3 +20,24 @@ Matthew Taylor is a PhD candidate in political science at the Université de Mon
 **Camille Thibault**
 
 **Svetlana Zhuk**
+
+### Other Student Collaborators
+
+Here is a list of other student collaborators in Computer Science and Political Science. 
+
+**Kelline Pelrine**
+
+**Andreea Musulane**
+
+**Zachary Yang**
+
+**Gabrielle Péloquin-Skulski**
+
+**Bijean Ghafouri**
+
+
+
+
+
+
+
