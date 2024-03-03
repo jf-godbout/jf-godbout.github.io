@@ -21,7 +21,7 @@ Matthew Taylor is a PhD candidate in political science at the Université de Mon
 **Svetlana Zhuk**
 
 ## Other Student Collaborators
-I am also collaborating with these students from Computer Science and Political Science on several different projects. 
+I am also collaborating with these PhD students from Computer Science and Political Science on several different projects. 
 
 **Andreea Musulan**
 
