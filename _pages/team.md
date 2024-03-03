@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Here is a list of current student working under my supervision at the Université de Montréal. 
-### 1. PhD Students
+## PhD Students
 **Julien Robin** 
 
 **Matthew Taylor** 
@@ -15,13 +15,12 @@ Matthew Taylor is a PhD candidate in political science at the Université de Mon
 
 **Virginie Vandewalle** 
 
-### 2. MA Students
+## MA Students
 **Camille Thibault**
 
 **Svetlana Zhuk**
 
-### 3. Other Student Collaborators
-
+## 3. Other Student Collaborators
 I am also collaborating with these students from Computer Science and Political Science on several different projects. 
 
 **Andreea Musulan**
