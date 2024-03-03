@@ -4,7 +4,7 @@ title: "Team"
 permalink: /team/
 author_profile: true
 ---
-Here is a list of current student working under my supervision at the Université de Montréal. 
+Here is a list of current students working under my supervision at the Université de Montréal. 
 ## PhD Students
 **Julien Robin** 
 
