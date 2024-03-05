@@ -17,6 +17,8 @@ Matthew Taylor is a PhD candidate in political science at the Université de Mon
 ## MA Students
 **Camille Thibault**
 
+Camille Thibault is a master's student in political science at the Université de Montréal and is simultaneously pursuing a microprogram in big data analysis. Her research interests revolve around Canadian and Quebec politics, artificial intelligence, and misinformation. As part of her involvement with the Complex Data Lab, she has published ["Towards Reliable Misinformation Mitigation: Generalization, Uncertainty"](https://arxiv.org/abs/2305.14928), and ["GPT-4 and Uncertainty Resolution in Misinformation Detection"](https://arxiv.org/abs/2401.01197). Her master's thesis, scheduled for completion in December 2025, will focus on detecting misinformation within the Quebec electoral context.
+
 **Svetlana Zhuk**
 
 ## Other Student Collaborators
@@ -34,7 +36,7 @@ I am also collaborating with these PhD students from Computer Science and Politi
 
 **Zachary Yang**
 
-
+[Zachary Yang](https://www.linkedin.com/in/zachary-y-647209103/) is a PhD candidate at McGill University and Mila. He is passionate about the practical application of AI and ML. Under the expert guidance of Dr. Reihaneh Rabbany, he explores innovative ways to harness AI/ML for real-world impact. His research centers around making AI/ML accessible to people, bridging the gap between cutting-edge research and practical solutions. He’s worked on [detecting toxicity for in-game chat](https://aclanthology.org/2023.findings-emnlp.663/) in real time.  As a member of the CSDC (Centre for the Study of Democratic Citizenship), he engages in interdisciplinary intersection between AI and social science. His mission is to apply AI to developing user-friendly tools, applications, and systems. Let’s explore the exciting intersection of AI, ML, and societal impact! 
 
 
 
