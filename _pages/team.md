@@ -26,7 +26,7 @@ I am also collaborating with these PhD students from Computer Science and Politi
 
 **Andreea Musulan**
 
-[Andreea Musulan](https://amusulan.github.io/) is a PhD candidate at the University of Toronto, working in the field of computational social science. In her thesis, she researches the dynamics of online communication from a political perspective, and is highly interested in understanding how and why actors use digital tools to interact with the world around them. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. 
+[Andreea Musulan](https://amusulan.github.io/) is a PhD candidate at the University of Toronto working in the field of computational social science. In her thesis, she researches the dynamics of online communication from a political perspective, and is highly interested in understanding how and why actors use digital tools to interact with the world around them. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. 
 
 **Bijean Ghafouri**
 
