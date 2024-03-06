@@ -26,9 +26,13 @@ I am also collaborating with these PhD students from Computer Science and Politi
 
 **Andreea Musulan**
 
+(Andreea Musulan)[https://amusulan.github.io/] is a PhD candidate at the University of Toronto, working in the field of computational social science. In her thesis, she researches the dynamics of online communication from a political perspective, and is highly interested in understanding how and why actors use digital tools to interact with the world around them. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. 
+
 **Bijean Ghafouri**
 
 **Gabrielle Péloquin-Skulski**
+
+[Gabrielle Péloquin-Skulski](https://scholar.google.com/citations?user=1EbUmSsAAAAJ&hl=en&oi=ao) is a PhD Candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT), where she is a member of the MIT Political Experiments Research Lab (PERL), under the guidance of Professor Adam J. Berinsky. Her research interests lie in the fields of American politics and quantitative methodology, with a focus on political misinformation. Gabrielle’s work more specifically delves into the psychological underpinnings that influence individuals' propensity to accept and disseminate political misinformation online. Her doctoral research examines how the content of political (mis)information interacts with emotional responses, shaping people's attitudes and behaviors. Gabrielle is also affiliated with the Complex Data Lab, directed by Professor Reihaneh Rabbany. Prior to her graduate studies at MIT, she graduated with a B.Sc. Honors and a M.Sc. in political science from the Université de Montréal.
 
 **Kellin Pelrine**
 
