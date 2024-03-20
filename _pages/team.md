@@ -16,6 +16,8 @@ Matthew Taylor is a PhD candidate in political science at the Université de Mon
 
 **Virginie Vandewalle** 
 
+Virginie Vandewalle is a PhD student in political science at the Université de Montréal. Her research focuses on Canadian politics, with a particular emphasis on the gender gap in politics at both the federal and provincial levels. Under the supervision of Ruth Dassonneville, her master's thesis at the Université de Montréal examined the question: "Are right-wing political parties favored by female suffrage in Canada and Quebec?" Vandewalle has contributed to the field with her article ["Voting for women in recent Canadian elections"](https://link.springer.com/article/10.1057/s41253-024-00236-5), published in French Politics.
+
 ## MA Students
 **Camille Thibault**
 
@@ -33,6 +35,8 @@ I am also collaborating with these PhD students from Computer Science and Politi
 [Andreea Musulan](https://amusulan.github.io/) is a PhD candidate at the University of Toronto working in the field of computational social science. In her thesis, she researches the dynamics of online communication from a political perspective, and is highly interested in understanding how and why actors use digital tools to interact with the world around them. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. 
 
 **Bijean Ghafouri**
+
+Bijean Ghafouri is a Ph.D. candidate at the University of Southern California. He studies public opinion, political psychology, information processing and computational social science.
 
 **Gabrielle Péloquin-Skulski**
 
