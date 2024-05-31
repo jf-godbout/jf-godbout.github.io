@@ -5,7 +5,7 @@ permalink: /francais/
 author_profile: true
 ---
 
-Je suis professeur à l'Université de Montréal au Département de science politique et chercheur invité au Mila - Institut québécois d'intelligence artificielle, et à IVADO - le Consortium de recherche, de formation et de mobilisation des connaissances en intelligence artificielle. Mes recherches portent principalement sur la science des données, l'intelligence artificielle et l'apprentissage automatique. Je m'intéresse également aux institutions législatives et au développement politique comparatif. Je suis actuellement le [directeur du programme de premier cycle en analyse des mégadonnées](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) à l'Université de Montréal.
+Je suis professeur à l'Université de Montréal au Département de science politique et chercheur invité au [Mila](https://mila.quebec/fr) - Institut québécois d'intelligence artificielle, et à [IVADO](https://ivado.ca) - le Consortium de recherche, de formation et de mobilisation des connaissances en intelligence artificielle. Mes recherches portent principalement sur la science des données, l'intelligence artificielle et l'apprentissage automatique. Je m'intéresse également aux institutions législatives et au développement politique comparatif. Je suis actuellement le [directeur du programme de premier cycle en analyse des mégadonnées](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) à l'Université de Montréal.
 
 Polarisation politique, désinformation et données textuelles
 ======
