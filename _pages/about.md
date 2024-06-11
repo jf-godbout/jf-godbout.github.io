@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a professor at the [Université de Montréal](https://umontreal.ca) in the [Department of Political Science](https://pol.umontreal.ca/english/home/). I am also an invited researcher at [Mila](https://mila.quebec/en/) - Quebec AI Institute, and a Researcher at [IVADO](https://ivado.ca/en/) - The Research, Training and Knowledge Mobilization Consortium in Artificial Intelligence). My research is primarily focused on data science, AI, and machine learning. I also have an interest in legislative institutions and comparative political development. I am currently Director of the [Big data analysis undergraduate program](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) at the Université de Montréal.
+I am a professor at the [Université de Montréal](https://umontreal.ca) in the [Department of Political Science](https://pol.umontreal.ca/english/home/). I am also an invited researcher at [Mila](https://mila.quebec/en/) - Quebec AI Institute, and a researcher at [IVADO](https://ivado.ca/en/) - The Research, Training and Knowledge Mobilization Consortium in Artificial Intelligence). My research is primarily focused on data science, AI, and machine learning. I also have an interest in legislative institutions and comparative political development. I am currently Director of the [Big data analysis undergraduate program](https://admission.umontreal.ca/programmes/microprogramme-de-1er-cycle-en-analyse-des-megadonnees-en-sciences-humaines-et-sociales/) at the Université de Montréal.
 
 Political Polarization, Disinformation, and Text as Data 
 ======
