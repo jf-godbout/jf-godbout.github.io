@@ -4,15 +4,19 @@ title: "Team"
 permalink: /team/
 author_profile: true
 ---
-Here is a list of current students working under my supervision at the Université de Montréal. 
+Here is a list of current students working under my supervision. 
 ## PhD Students
+**Kellin Pelrine**
+
+[Kellin Pelrine](https://kellinpelrine.github.io/) is a PhD candidate at McGill University and the Mila AI Institute, co-supervised by Reihaneh Rabbany and myself. He's also a member of the Centre for the Study of Democratic Citizenship, research advisor at FAR AI, and cofounder and CSO at startup Stitch. Pelrine leads research hoping to create practical, transformatively impactful machine learning systems. Recently, his focus is AI safety, misinformation mitigation, and AI agents. He's also worked on education, political polarization, human trafficking, and temporal graphs. At FAR AI, he and collaborators have several projects on robustness of frontier models and of superhuman AIs that play the board game Go; for beating the latter as a human he has been called the "man who beat the machine". At Stitch, he's building the AI extension of imagination with a visual interface for LLMs.
+
 **Julien Robin** 
 
-Julien Robin is a PhD student in political science at the Université de Montréal, under the supervision of Jean-François Godbout. A graduate in public law and public management (Université Paris-Dauphine PSL and ENA), his research focuses on parliamentary politics and the evolution of the French party system. His thesis looks at the impact of regulatory changes on the development of parliamentary groups in the French National Assembly since 1910. A keen populariser of science, Julien regularly publishes articles in The Conversation (e.g., [here](https://theconversation.com/reforme-des-retraites-comment-les-parlementaires-tentent-de-rassembler-leurs-troupes-199262), and [here](https://theconversation.com/comment-le-travail-de-lassemblee-nationale-sest-invite-dans-le-quotidien-207071)) and is involved in developing the datan.fr project, a tool designed to report on the parliamentary activity of French MPs.
+Julien Robin is a PhD student in political science at the Université de Montréal. A graduate in public law and public management (Université Paris-Dauphine PSL and ENA), his research focuses on AI safety, parliamentary politics, and the evolution of the French party system. His thesis looks at the impact of regulatory changes on the development of parliamentary groups in the French National Assembly since 1910. A keen populariser of science, Julien regularly publishes articles in The Conversation (e.g., [here](https://theconversation.com/reforme-des-retraites-comment-les-parlementaires-tentent-de-rassembler-leurs-troupes-199262), and [here](https://theconversation.com/comment-le-travail-de-lassemblee-nationale-sest-invite-dans-le-quotidien-207071)) and is involved in developing the datan.fr project, a tool designed to report on the parliamentary activity of French MPs.
 
 **Matthew Taylor** 
 
-Matthew Taylor is a PhD candidate in political science at the Université de Montréal. His research interests are principally on the subject of Canadian party politics, with a particular focus on the linkages between party systems at the federal and provincial levels. He did his undergraduate and master's degrees in political science at the University of Toronto. He has published the article ["Voting for women in recent Canadian elections"](https://link.springer.com/article/10.1057/s41253-024-00236-5) in French Politics, and he has written a recension titled ["The Motivation to Vote: Explaining Electoral Participation"](https://www.erudit.org/fr/revues/ps/2022-v41-n1-ps06695/1085195ar/) reviewed in Politiques et Sociétés.
+Matthew Taylor is a PhD candidate in political science at the Université de Montréal, co-supervised by Ruth Dassonneville and myself. His research interests are principally on the subject of Canadian party politics, with a particular focus on the linkages between party systems at the federal and provincial levels. He did his undergraduate and master's degrees in political science at the University of Toronto. He has published the article ["Voting for women in recent Canadian elections"](https://link.springer.com/article/10.1057/s41253-024-00236-5) in French Politics, and he has written a recension titled ["The Motivation to Vote: Explaining Electoral Participation"](https://www.erudit.org/fr/revues/ps/2022-v41-n1-ps06695/1085195ar/) reviewed in Politiques et Sociétés.
 
 **Virginie Vandewalle** 
 
@@ -21,7 +25,7 @@ Virginie Vandewalle is a PhD student in political science at the Université de 
 ## MA Students
 **Camille Thibault**
 
-Camille Thibault is a master's student in political science at the Université de Montréal and is simultaneously pursuing a microprogram in big data analysis. Her research interests revolve around Canadian and Quebec politics, artificial intelligence, and misinformation. As part of her involvement with the Complex Data Lab, she has published ["Towards Reliable Misinformation Mitigation: Generalization, Uncertainty"](https://arxiv.org/abs/2305.14928), and ["GPT-4 and Uncertainty Resolution in Misinformation Detection"](https://arxiv.org/abs/2401.01197). Her master's thesis, scheduled for completion in December 2025, will focus on detecting misinformation within the Quebec electoral context.
+Camille Thibault is a master's student in political science at the Université de Montréal and is simultaneously pursuing a microprogram in big data analysis, co-supervised by Ruth Dassonneville and myself. Her research interests revolve around Canadian and Quebec politics, artificial intelligence, and misinformation. As part of her involvement with the Complex Data Lab, she has published ["Towards Reliable Misinformation Mitigation: Generalization, Uncertainty"](https://arxiv.org/abs/2305.14928), and ["GPT-4 and Uncertainty Resolution in Misinformation Detection"](https://arxiv.org/abs/2401.01197). Her master's thesis, scheduled for completion in December 2025, will focus on detecting misinformation within the Quebec electoral context.
 
 **Svetlana Zhuk**
 
@@ -32,7 +36,7 @@ I am also collaborating with these PhD students from Computer Science and Politi
 
 **Andreea Musulan**
 
-[Andreea Musulan](https://amusulan.github.io/) is a PhD candidate at the University of Toronto working in the field of computational social science. In her thesis, she researches the dynamics of online communication from a political perspective, and is highly interested in understanding how and why actors use digital tools to interact with the world around them. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. 
+[Andreea Musulan](https://amusulan.github.io/) is a PhD candidate at the University of Toronto working in the field of computational social science. In her thesis, she researches the dynamics of online communication from a political perspective, and is highly interested in understanding how and why actors use digital tools to interact with the world around them. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. In September 2024, she will begin a two-year IVADO postdoc under my supervision. 
 
 **Bijean Ghafouri**
 
@@ -41,10 +45,6 @@ Bijean Ghafouri is a Ph.D. candidate at the University of Southern California. H
 **Gabrielle Péloquin-Skulski**
 
 [Gabrielle Péloquin-Skulski](https://scholar.google.com/citations?user=1EbUmSsAAAAJ&hl=en&oi=ao) is a PhD Candidate in the Department of Political Science at the Massachusetts Institute of Technology (MIT), where she is a member of the MIT Political Experiments Research Lab (PERL), under the guidance of Professor Adam J. Berinsky. Her research interests lie in the fields of American politics and quantitative methodology, with a focus on political misinformation. Gabrielle’s work more specifically delves into the psychological underpinnings that influence individuals' propensity to accept and disseminate political misinformation online. Her doctoral research examines how the content of political (mis)information interacts with emotional responses, shaping people's attitudes and behaviors. Gabrielle is also affiliated with the Complex Data Lab, directed by Professor Reihaneh Rabbany. Prior to her graduate studies at MIT, she graduated with a B.Sc. Honors and a M.Sc. in political science from the Université de Montréal.
-
-**Kellin Pelrine**
-
-[Kellin Pelrine](https://kellinpelrine.github.io/) is a PhD candidate at McGill University and the Mila AI Institute, supervised by Reihaneh Rabbany. He's also a member of the Centre for the Study of Democratic Citizenship, research advisor at FAR AI, and cofounder and CSO at startup Stitch. Pelrine leads research hoping to create practical, transformatively impactful machine learning systems. Recently, his focus is AI safety, misinformation mitigation, and AI agents. He's also worked on education, political polarization, human trafficking, and temporal graphs. At FAR AI, he and collaborators have several projects on robustness of frontier models and of superhuman AIs that play the board game Go; for beating the latter as a human he has been called the "man who beat the machine". At Stitch, he's building the AI extension of imagination with a visual interface for LLMs.
 
 **Zachary Yang**
 
