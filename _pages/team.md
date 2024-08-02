@@ -25,7 +25,7 @@ Virginie Vandewalle is a PhD student in political science at the Université de 
 ## MA Students
 **Camille Thibault**
 
-Camille Thibault is a master's student in political science at the Université de Montréal and is simultaneously pursuing a microprogram in big data analysis, co-supervised by Ruth Dassonneville and myself. Her research interests revolve around Canadian and Quebec politics, artificial intelligence, and misinformation. As part of her involvement with the Complex Data Lab, she has published ["Towards Reliable Misinformation Mitigation: Generalization, Uncertainty"](https://arxiv.org/abs/2305.14928), and ["GPT-4 and Uncertainty Resolution in Misinformation Detection"](https://arxiv.org/abs/2401.01197). Her master's thesis, scheduled for completion in December 2025, will focus on detecting misinformation within the Quebec electoral context.
+Camille Thibault is a master's student in political science at the Université de Montréal and is simultaneously pursuing a microprogram in big data analysis. She is co-supervised by Ruth Dassonneville and myself. Her research interests revolve around Canadian and Quebec politics, artificial intelligence, and misinformation. As part of her involvement with the Complex Data Lab, she has published ["Towards Reliable Misinformation Mitigation: Generalization, Uncertainty"](https://arxiv.org/abs/2305.14928), and ["GPT-4 and Uncertainty Resolution in Misinformation Detection"](https://arxiv.org/abs/2401.01197). Her master's thesis, scheduled for completion in December 2025, will focus on detecting misinformation within the Quebec electoral context.
 
 **Svetlana Zhuk**
 
