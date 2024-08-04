@@ -10,6 +10,10 @@ Here is a list of current students working under my supervision.
 
 Julien Robin is a PhD student in political science at the Université de Montréal. A graduate in public law and public management (Université Paris-Dauphine PSL and ENA), his research focuses on AI safety, parliamentary politics, and the evolution of the French party system. His thesis looks at the impact of regulatory changes on the development of parliamentary groups in the French National Assembly since 1910. A keen populariser of science, Julien regularly publishes articles in The Conversation (e.g., [here](https://theconversation.com/reforme-des-retraites-comment-les-parlementaires-tentent-de-rassembler-leurs-troupes-199262), and [here](https://theconversation.com/comment-le-travail-de-lassemblee-nationale-sest-invite-dans-le-quotidien-207071)) and is involved in developing the datan.fr project, a tool designed to report on the parliamentary activity of French MPs.
 
+**Khadija Oubedda**
+
+Khadija Oubedda is a doctoral student with a master's degree in political science from Doha Institute, Qatar. Her research focuses on the study of political behaviors in the Arab world using quantitative methods, particularly political trust, which was the subject of her thesis.
+
 **Kellin Pelrine**
 
 [Kellin Pelrine](https://kellinpelrine.github.io/) is a PhD candidate at McGill University and the Mila AI Institute, co-supervised by Reihaneh Rabbany and myself. He's also a member of the Centre for the Study of Democratic Citizenship, research advisor at FAR AI, and cofounder and CSO at startup Stitch. Pelrine leads research hoping to create practical, transformatively impactful machine learning systems. Recently, his focus is AI safety, misinformation mitigation, and AI agents. He's also worked on education, political polarization, human trafficking, and temporal graphs. At FAR AI, he and collaborators have several projects on robustness of frontier models and of superhuman AIs that play the board game Go; for beating the latter as a human he has been called the "man who beat the machine". At Stitch, he's building the AI extension of imagination with a visual interface for LLMs.
