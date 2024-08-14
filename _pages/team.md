@@ -38,6 +38,10 @@ Svetlana Zhuk is starting her Master's in Political Science in Fall 2024. Her ma
 ## Other Student Collaborators
 I am also collaborating with these student researchers from Computer Science and Political Science on several different projects. 
 
+**Aarash Feizi**
+
+Aarash Feizi is a Ph.D. candidate at McGill University and the Mila AI Institute, under the co-supervision of Professors Reihaneh Rabbany and Adriana Romero-Soriano. His research is centered on leveraging machine learning for social good, with a focus on exploring multi-modal large language models (MLLMs) as fair evaluators, extending self-supervised methods to practical applications, and assessing the impact of AI-generated misinformation on social media platforms.
+
 **Andreea Musulan**
 
 [Andreea Musulan](https://amusulan.github.io/) is a PhD candidate at the University of Toronto working in the field of computational social science. In her thesis, she researches the dynamics of online communication from a political perspective, and is highly interested in understanding how and why actors use digital tools to interact with the world around them. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. In September 2024, she will begin a two-year IVADO postdoc under my supervision. 
@@ -61,6 +65,10 @@ Roxanne Corriveau is a first-year undergraduate student in political science at 
 **Sahar Omidi Shayegan**
 
 [Sahar Omidi Shayegan](https://saharshayegan.github.io/) is an MSc student in Computer Science at McGill University. She is supervised by Dr. Reihaneh Rabbany and focuses on network science, particularly graph neural networks and natural language processing. Her research delves into computational social science, with a keen interest in using language features on graphs to uncover patterns. Her latest work explores political ideologies in spaces without well-defined parties.
+
+**Ruben Weijers**
+
+Ruben Weijers is an M.Sc. student in Artificial Intelligence at Utrecht University, working on effective text simplification for adolescents with a mild intellectual disorder. Under the supervision of Kellin Pelrine, he has published a workshop paper: “[Quantifying learning-style adaptation in effectiveness of LLM teaching](https://aclanthology.org/2024.personalize-1.10.pdf)”. He is currently continuing this research by using LLMs to reduce misconceptions in physics concepts. He is also working under the supervision of Aris Richardson from RAND, creating a registry of sovereign compute projects and analyzing global patterns of technological dependence. His interests include AI governance, AI hardware and improving education.
 
 **Tamara Jacod**
 
