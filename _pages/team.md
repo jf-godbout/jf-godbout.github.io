@@ -64,7 +64,7 @@ Roxanne Corriveau is a first-year undergraduate student in political science at 
 
 **Ruben Weijers**
 
-Ruben Weijers is an M.Sc. student in Artificial Intelligence at Utrecht University, working on effective text simplification for adolescents with a mild intellectual disorder. Under the supervision of Kellin Pelrine, he has published a workshop paper: “[Quantifying learning-style adaptation in effectiveness of LLM teaching](https://aclanthology.org/2024.personalize-1.10.pdf)”. He is currently continuing this research by using LLMs to reduce misconceptions in physics concepts. He is also working under the supervision of Aris Richardson from RAND, creating a registry of sovereign compute projects and analyzing global patterns of technological dependence. His interests include AI governance, AI hardware and improving education.
+[Ruben Weijers](https://www.linkedin.com/in/ruben-weijers-81671a230/) is an M.Sc. student in Artificial Intelligence at Utrecht University, working on effective text simplification for adolescents with a mild intellectual disorder. Under the supervision of Kellin Pelrine, he has published a workshop paper: “[Quantifying learning-style adaptation in effectiveness of LLM teaching](https://aclanthology.org/2024.personalize-1.10.pdf)”. He is currently continuing this research by using LLMs to reduce misconceptions in physics concepts. He is also working under the supervision of Aris Richardson from RAND, creating a registry of sovereign compute projects and analyzing global patterns of technological dependence. His interests include AI governance, AI hardware and improving education.
 
 **Sahar Omidi Shayegan**
 
