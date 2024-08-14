@@ -36,7 +36,7 @@ Camille Thibault is a master's student in political science at the Université d
 Svetlana Zhuk is starting her Master's in Political Science in Fall 2024. Her main interest is exploring the influence of artificial intelligence on political institutions.
 
 ## Other Student Collaborators
-I am also collaborating with these student researchers from Computer Science and Political Science on several different projects. 
+I am also collaborating with these student researchers from Computer Science, Education, and Political Science on several different projects. 
 
 **Aarash Feizi**
 
