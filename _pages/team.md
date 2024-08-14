@@ -62,13 +62,13 @@ Florence Laflamme is an undergraduate student at the Université de Montréal, s
 
 Roxanne Corriveau is a first-year undergraduate student in political science at the Université de Montréal, where she is also pursuing a minor in Quebec studies. She is interested in the political history of Quebec, as well as linguistic and identity issues in the province.
 
-**Sahar Omidi Shayegan**
-
-[Sahar Omidi Shayegan](https://saharshayegan.github.io/) is an MSc student in Computer Science at McGill University. She is supervised by Dr. Reihaneh Rabbany and focuses on network science, particularly graph neural networks and natural language processing. Her research delves into computational social science, with a keen interest in using language features on graphs to uncover patterns. Her latest work explores political ideologies in spaces without well-defined parties.
-
 **Ruben Weijers**
 
 Ruben Weijers is an M.Sc. student in Artificial Intelligence at Utrecht University, working on effective text simplification for adolescents with a mild intellectual disorder. Under the supervision of Kellin Pelrine, he has published a workshop paper: “[Quantifying learning-style adaptation in effectiveness of LLM teaching](https://aclanthology.org/2024.personalize-1.10.pdf)”. He is currently continuing this research by using LLMs to reduce misconceptions in physics concepts. He is also working under the supervision of Aris Richardson from RAND, creating a registry of sovereign compute projects and analyzing global patterns of technological dependence. His interests include AI governance, AI hardware and improving education.
+
+**Sahar Omidi Shayegan**
+
+[Sahar Omidi Shayegan](https://saharshayegan.github.io/) is an MSc student in Computer Science at McGill University. She is supervised by Dr. Reihaneh Rabbany and focuses on network science, particularly graph neural networks and natural language processing. Her research delves into computational social science, with a keen interest in using language features on graphs to uncover patterns. Her latest work explores political ideologies in spaces without well-defined parties.
 
 **Tamara Jacod**
 
