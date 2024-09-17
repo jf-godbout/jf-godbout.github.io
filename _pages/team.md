@@ -5,6 +5,11 @@ permalink: /team/
 author_profile: true
 ---
 Here is a list of current students working under my supervision. 
+## Postdoctoral Students
+**Andreea Musulan**
+
+[Andreea Musulan](https://amusulan.github.io/) is currently working with me on a two-year IVADO postdoctoral project focused on studying coordinated groups and malicious agents on social networks. She holds a PhD from the University of Toronto in the field of computational social science. Her thesis explores the dynamics of online communication from a political perspective, with a strong interest in understanding how and why actors use digital tools to engage with the world. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. 
+
 ## PhD Students
 **Julien Robin** 
 
@@ -41,10 +46,6 @@ I am also collaborating with these student researchers from Computer Science, Ed
 **Aarash Feizi**
 
 Aarash Feizi is a Ph.D. candidate at McGill University and the Mila AI Institute, under the co-supervision of Professors Reihaneh Rabbany and Adriana Romero-Soriano. His research is centered on leveraging machine learning for social good, with a focus on exploring multi-modal large language models (MLLMs) as fair evaluators, extending self-supervised methods to practical applications, and assessing the impact of AI-generated misinformation on social media platforms.
-
-**Andreea Musulan**
-
-[Andreea Musulan](https://amusulan.github.io/) is a PhD candidate at the University of Toronto working in the field of computational social science. In her thesis, she researches the dynamics of online communication from a political perspective, and is highly interested in understanding how and why actors use digital tools to interact with the world around them. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. In September 2024, she will begin a two-year IVADO postdoc under my supervision. 
 
 **Bijean Ghafouri**
 
