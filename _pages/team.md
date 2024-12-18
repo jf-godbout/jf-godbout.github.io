@@ -27,10 +27,6 @@ Khadija Oubedda is a doctoral student with a master's degree in political scienc
 
 Matthew Taylor is a PhD candidate in political science at the Université de Montréal, co-supervised by Ruth Dassonneville and myself. His research interests are principally on the subject of Canadian party politics, with a particular focus on the linkages between party systems at the federal and provincial levels. He did his undergraduate and master's degrees in political science at the University of Toronto. He has published the article ["Voting for women in recent Canadian elections"](https://link.springer.com/article/10.1057/s41253-024-00236-5) in French Politics, and he has written a recension titled ["The Motivation to Vote: Explaining Electoral Participation"](https://www.erudit.org/fr/revues/ps/2022-v41-n1-ps06695/1085195ar/) reviewed in Politiques et Sociétés.
 
-**Virginie Vandewalle** 
-
-Virginie Vandewalle is a PhD student in political science at the Université de Montréal. Her research focuses on Canadian politics, with a particular emphasis on the gender gap in politics at both the federal and provincial levels. Under the supervision of Ruth Dassonneville, her master's thesis at the Université de Montréal examined the question: "Are right-wing political parties favored by female suffrage in Canada and Quebec?" Vandewalle has contributed to the field with her article ["Voting for women in recent Canadian elections"](https://link.springer.com/article/10.1057/s41253-024-00236-5), published in French Politics.
-
 ## MA Students
 **Camille Thibault**
 
