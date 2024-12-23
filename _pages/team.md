@@ -5,10 +5,14 @@ permalink: /team/
 author_profile: true
 ---
 Here is a list of current students working under my supervision. 
-## Postdoctoral Students
+## Postdoctoral Supervision
 **Andreea Musulan**
 
 [Andreea Musulan](https://amusulan.github.io/) is currently working with me on a two-year IVADO postdoctoral project focused on studying coordinated groups and malicious agents on social networks. She holds a PhD from the University of Toronto in the field of computational social science. Her thesis explores the dynamics of online communication from a political perspective, with a strong interest in understanding how and why actors use digital tools to engage with the world. While her academic experience is full of NLP and ML applications to answer real world problems, she has also gained industry experience working with a cryptocurrency investment company. She is passionate about learning new skills and developing tools meant to positively influence society. 
+
+**Maximilian Puelma Touzel**
+
+[Maximilian Puelma Touzel](https://mptouzel.github.io/) is a data scientist and modeller using simulations and machine learning to measure and model large-scale systems of human interaction, such as online platforms. He aims to understand in specific cases how uncertainty about the world and social pressures influence the opinion formation process at both the individual and societal level, and on issues in which value is smeared across socio-political, socio-economic, and socio-environmental domains. He is also currently investigating AI persuasiveness in this setting and the potential influence of AI manipulation at the scale of society now and in the future.
 
 ## PhD Students
 **Julien Robin** 
