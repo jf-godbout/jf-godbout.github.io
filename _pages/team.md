@@ -14,7 +14,7 @@ Here is a list of current students working under my supervision.
 
 [Maximilian Puelma Touzel](https://mptouzel.github.io/) is a data scientist and modeller using simulations and machine learning to measure and model large-scale systems of human interaction, such as online platforms. He aims to understand in specific cases how uncertainty about the world and social pressures influence the opinion formation process at both the individual and societal level, and on issues in which value is smeared across socio-political, socio-economic, and socio-environmental domains. He is also currently investigating AI persuasiveness in this setting and the potential influence of AI manipulation at the scale of society now and in the future.
 
-## PhD Students
+## PhD Supervision
 **Julien Robin** 
 
 Julien Robin is a PhD student in political science at the Université de Montréal. A graduate in public law and public management (Université Paris-Dauphine PSL and ENA), his research focuses on AI safety, parliamentary politics, and the evolution of the French party system. His thesis looks at the impact of regulatory changes on the development of parliamentary groups in the French National Assembly since 1910. A keen populariser of science, Julien regularly publishes articles in The Conversation (e.g., [here](https://theconversation.com/reforme-des-retraites-comment-les-parlementaires-tentent-de-rassembler-leurs-troupes-199262), and [here](https://theconversation.com/comment-le-travail-de-lassemblee-nationale-sest-invite-dans-le-quotidien-207071)) and is involved in developing the datan.fr project, a tool designed to report on the parliamentary activity of French MPs.
@@ -31,7 +31,7 @@ Khadija Oubedda is a doctoral student with a master's degree in political scienc
 
 Matthew Taylor is a PhD candidate in political science at the Université de Montréal, co-supervised by Ruth Dassonneville and myself. His research interests are principally on the subject of Canadian party politics, with a particular focus on the linkages between party systems at the federal and provincial levels. He did his undergraduate and master's degrees in political science at the University of Toronto. He has published the article ["Voting for women in recent Canadian elections"](https://link.springer.com/article/10.1057/s41253-024-00236-5) in French Politics, and he has written a recension titled ["The Motivation to Vote: Explaining Electoral Participation"](https://www.erudit.org/fr/revues/ps/2022-v41-n1-ps06695/1085195ar/) reviewed in Politiques et Sociétés.
 
-## MA Students
+## MA Supervision
 **Camille Thibault**
 
 Camille Thibault is a master's student in political science at the Université de Montréal and is simultaneously pursuing a microprogram in big data analysis. She is co-supervised by Reihaneh Rabbany and myself. Her research interests revolve around Canadian and Quebec politics, artificial intelligence, and misinformation. As part of her involvement with the Complex Data Lab, she has published ["Towards Reliable Misinformation Mitigation: Generalization, Uncertainty"](https://arxiv.org/abs/2305.14928), and ["GPT-4 and Uncertainty Resolution in Misinformation Detection"](https://arxiv.org/abs/2401.01197). Her master's thesis, scheduled for completion in December 2025, will focus on detecting misinformation within the Quebec electoral context.
