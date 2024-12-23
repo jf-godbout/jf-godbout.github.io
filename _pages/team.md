@@ -4,7 +4,7 @@ title: "Team"
 permalink: /team/
 author_profile: true
 ---
-Here is a list of current students working under my supervision. 
+Here is a list of current students and collaborators working under my supervision. 
 ## Postdoctoral Supervision
 **Andreea Musulan**
 
