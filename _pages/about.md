@@ -20,7 +20,7 @@ On this [site](https://jf-godbout.github.io/data/), you will find the voting rec
 
 Graduate Student Recruitment 
 ======
-I am recruiting students interested in AI safety and the political implications of AI, with a strong background in computational social sciences, to join the [Complex Data Lab](https://complexdatalabmcgill.github.io) and become members of [Mila](https://mila.quebec/en/) for the 2025–2026 academic year. Computer science students with a social science background are especially welcomed. Students will work under my direct supervision at Université de Montréal and must have at least B1-level proficiency in French.
+I am recruiting incoming MA or PhD students interested in AI safety and the political implications of AI, with a strong background in computational social sciences, to join the [Complex Data Lab](https://complexdatalabmcgill.github.io) and become members of [Mila](https://mila.quebec/en/) for the 2025–2026 academic year. Computer science students with a social science background are especially welcomed. Students will work under my direct supervision in the Deparment of Political Science at Université de Montréal and must have at least B1-level proficiency in French.
 
 Interested candidates should email me their CV and cover letter outlining their interest and qualifications.
 
