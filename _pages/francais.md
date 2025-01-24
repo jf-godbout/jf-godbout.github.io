@@ -14,3 +14,9 @@ J'étudie actuellement la polarisation politique et la propagation de la désinf
 Base de données sur les votes au Parlement canadien et étude du développement politique
 ======
 Sur ce [site](https://jf-godbout.github.io/data/), vous trouverez les registres de vote de tous les membres de la Chambre des communes et du Sénat canadiens ayant occupé un siège entre 1867 et 2020. Une partie de ces données a été utilisée dans mon livre primé [*Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/9781487524753/lost-on-division/) ainsi que dans plusieurs autres publications récentes. Je mène aussi des recherches sur le développement des partis politiques et le comportement électoral des habitants du Bas-Canada entre 1792 et 1841, notamment à partir des registres de vote, des débats parlementaires et des journaux historiques. Mon approche pour étudier ces documents combine la science des données et des outils d'apprentissage automatique.
+
+Graduate Student Recruitment 
+======
+Je recrute des étudiants intéressés par la sécurité de l’IA et les implications politiques de l’IA, avec une solide expérience en sciences sociales computationnelles, pour rejoindre le [Complex Data Lab](https://complexdatalabmcgill.github.io) et devenir membres de [Mila](https://mila.quebec/fr/) pour l’année académique 2025-2026. Les étudiants en informatique ayant un bagage en sciences sociales sont particulièrement encouragés à postuler. Les étudiants travailleront sous ma supervision directe à l'Université de Montréal.  
+
+Les candidats intéressés doivent m’envoyer leur CV et une lettre de motivation expliquant leur intérêt et leurs qualifications.
