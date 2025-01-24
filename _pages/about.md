@@ -18,6 +18,12 @@ Parliamentary Voting Records and Canadian Political Development
 ======
 On this [site](https://jf-godbout.github.io/data/), you will find the voting records of all Members of the Canadian House of Commons and Senate who served between 1867-2020. Part of these data were used in my award winning book [*Lost on Division: Party Unity in the Canadian Parliament*](https://utorontopress.com/9781487524753/lost-on-division/) and in several other recent publications. I am currently researching the development of political parties and the electoral behaviour of the inhabitants of Lower Canada between 1792 and 1841 by focusing on voting records, parliamentary debates, and historical newspapers. My approach to studying these documents combines data science and machine learning tools. 
 
+Graduate Student Recruitment 
+======
+I am recruiting students interested in AI safety and the political implications of AI, with a strong background in computational social sciences, to join the [Complex Data Lab](https://complexdatalabmcgill.github.io) and become members of [Mila](https://mila.quebec/en/) for the 2025–2026 academic year. Computer science students with a social science background are especially welcomed. Students will work under my direct supervision at Université de Montréal and must have at least B1-level proficiency in French.
+
+Interested candidates should email me their CV and cover letter outlining their interest and qualifications.
+
 
 
 
