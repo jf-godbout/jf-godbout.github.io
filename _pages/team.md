@@ -23,10 +23,6 @@ Julien Robin is a PhD student in political science at the Université de Montré
 
 [Kellin Pelrine](https://kellinpelrine.github.io/) is a PhD candidate at McGill University and the Mila AI Institute, co-supervised by Reihaneh Rabbany and myself. He's also a member of the Centre for the Study of Democratic Citizenship, research advisor at FAR AI, and cofounder and CSO at startup Stitch. Pelrine leads research hoping to create practical, transformatively impactful machine learning systems. Recently, his focus is AI safety, misinformation mitigation, and AI agents. He's also worked on education, political polarization, human trafficking, and temporal graphs. At FAR AI, he and collaborators have several projects on robustness of frontier models and of superhuman AIs that play the board game Go; for beating the latter as a human he has been called the "man who beat the machine". At Stitch, he's building the AI extension of imagination with a visual interface for LLMs.
 
-**Khadija Oubedda**
-
-Khadija Oubedda is a doctoral student with a master's degree in political science from Doha Institute, Qatar. Her research focuses on the study of political behaviors in the Arab world using quantitative methods, particularly political trust, which was the subject of her thesis.
-
 **Matthew Taylor** 
 
 Matthew Taylor is a PhD candidate in political science at the Université de Montréal, co-supervised by Ruth Dassonneville and myself. His research interests are principally on the subject of Canadian party politics, with a particular focus on the linkages between party systems at the federal and provincial levels. He did his undergraduate and master's degrees in political science at the University of Toronto. He has published the article ["Voting for women in recent Canadian elections"](https://link.springer.com/article/10.1057/s41253-024-00236-5) in French Politics, and he has written a recension titled ["The Motivation to Vote: Explaining Electoral Participation"](https://www.erudit.org/fr/revues/ps/2022-v41-n1-ps06695/1085195ar/) reviewed in Politiques et Sociétés.
@@ -35,10 +31,6 @@ Matthew Taylor is a PhD candidate in political science at the Université de Mon
 **Camille Thibault**
 
 Camille Thibault is a master's student in political science at the Université de Montréal and is simultaneously pursuing a microprogram in big data analysis. She is co-supervised by Reihaneh Rabbany and myself. Her research interests revolve around Canadian and Quebec politics, artificial intelligence, and misinformation. As part of her involvement with the Complex Data Lab, she has published ["Towards Reliable Misinformation Mitigation: Generalization, Uncertainty"](https://arxiv.org/abs/2305.14928), and ["GPT-4 and Uncertainty Resolution in Misinformation Detection"](https://arxiv.org/abs/2401.01197). Her master's thesis, scheduled for completion in December 2025, will focus on detecting misinformation within the Quebec electoral context.
-
-**Svetlana Zhuk**
-
-Svetlana Zhuk is starting her Master's in Political Science in Fall 2024. Her main interest is exploring the influence of artificial intelligence on political institutions.
 
 ## Other Student Collaborators
 I am also collaborating with these student researchers from Computer Science, Education, and Political Science on several different projects. 
@@ -70,10 +62,6 @@ Roxanne Corriveau is a first-year undergraduate student in political science at 
 **Sahar Omidi Shayegan**
 
 [Sahar Omidi Shayegan](https://saharshayegan.github.io/) is an MSc student in Computer Science at McGill University. She is supervised by Dr. Reihaneh Rabbany and focuses on network science, particularly graph neural networks and natural language processing. Her research delves into computational social science, with a keen interest in using language features on graphs to uncover patterns. Her latest work explores political ideologies in spaces without well-defined parties.
-
-**Tamara Jacod**
-
-[Tamara Jacod](https://www.linkedin.com/in/tamara-jacod/) is an experienced Education Specialist   holding   a   Master's   degree   in Society, Culture and Politics in Education from   the   University   of   British   Colombia focusing on the impact of AI and data collection on education systems. Boasting extensive expertise across varied regions such as North America, Asia, and Western and Central Africa, she has demonstrated proficiency in planning, coordinating, and overseeing   research   endeavors   (both quantitative   and   qualitative),   with   a successful   history   of   managing   projects across diverse countries. She possesses strong skills in offering technical guidance, fostering capacity building, and ensuring quality assurance in education   research   initiatives   in   NGOs,   public   health   and   international organizations. She has a strong track record in enhancing partnerships with governments, implementing partners, and donors as well as facilitating resource mobilization and knowledge exchange. 
 
 **Zachary Yang**
 
