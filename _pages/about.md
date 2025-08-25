@@ -12,7 +12,7 @@ I am a professor at the [Université de Montréal](https://umontreal.ca) in the 
 
 Disinformation, Polarization, and Text as Data 
 ======
-My most recent work studies political polarization and the spread of misinformation in online societies with the [Complex Data Lab](https://complexdatalabmcgill.github.io). The lab's goal is to develop methodologies for analyzing these social and political issues by leveraging techniques in large language models, graph mining, as well as unsupervised and supervised learning. Our interdisciplinary research team brings together a group of computer scientists from [Mila](https://mila.quebec/en/) and political scientists from the [Université de Montréal](https://pol.umontreal.ca/accueil/) and [McGill](https://www.mcgill.ca/politicalscience/). You can find out more about these projects [here](https://www.complexdatalab.com/poli-sci/) and in my [current research section](https://jf-godbout.github.io/publications/).
+I’m co-director of AI4, the **AI Institute for Information Integrity**. My most recent work studies political polarization and the spread of misinformation in online societies. At the Institute, we foster a safe, open space for online public discourse and develop methodologies that leverage large language models, graph mining, and both unsupervised and supervised learning to analyze information integrity, prototype social simulations for ethical and efficient defenses, and measure ideology and polarization. Our interdisciplinary team brings together computer scientists at [Mila](https://mila.quebec/en/) and political scientists at the [Université de Montréal](https://pol.umontreal.ca/accueil/) and [McGill](https://www.mcgill.ca/politicalscience/). You can find out more about these projects [here](https://www.ai4.institute/](https://www.ai4.institute/publications/).
 
 Parliamentary Voting Records and Canadian Political Development 
 ======
@@ -20,7 +20,7 @@ On this [site](https://jf-godbout.github.io/data/), you will find the voting rec
 
 Graduate Student Recruitment 
 ======
-I am recruiting new MA or PhD students interested in AI safety and the political implications of AI, with a strong background in computational social sciences, to join the [Complex Data Lab](https://complexdatalabmcgill.github.io) and become members of [Mila](https://mila.quebec/en/) for the 2026–2027 academic year (admission in January 2026 is possible). Computer science students with a social science background are especially welcomed. Students will work under my direct supervision in the Deparment of Political Science at Université de Montréal and must have at least B1-level proficiency in French.
+I am recruiting new MA or PhD students interested in AI safety and the political implications of AI, with a strong background in computational social sciences, to join [AI4](https://www.ai4.institute/) and become members of [Mila](https://mila.quebec/en/) for the 2026–2027 academic year (admission in January 2026 is also possible). Computer science students with a social science background are especially welcomed. Students will work under my direct supervision in the Deparment of Political Science at Université de Montréal and must have at least B1-level proficiency in French.
 
 Interested candidates should email me their CV and cover letter outlining their interest and qualifications.
 
