@@ -12,7 +12,7 @@ I am a professor at the [Université de Montréal](https://umontreal.ca) in the 
 
 Disinformation, Polarization, and Text as Data 
 ======
-I am co-director of [AI4](https://www.ai4.institute/), the **AI Institute for Information Integrity**. My most recent work studies political polarization and the spread of misinformation in online societies. At the Institute, we develop methodologies that leverage large language models, graph mining, and unsupervised/supervised learning to analyze information integrity, agent social simulations, and for measuring ideology and polarization. Our interdisciplinary team brings together computer scientists at [Mila](https://mila.quebec/en/) and political scientists at the [Université de Montréal](https://pol.umontreal.ca/accueil/). You can find out more about these projects [here](https://www.ai4.institute/publications/).
+I am co-director of [AI4](https://www.ai4.institute/), the **AI Institute for Information Integrity**. My most recent work studies political polarization and the spread of misinformation in online societies. At the Institute, we develop methodologies that leverage large language models, graph mining, and unsupervised/supervised learning to analyze information integrity, agent social simulations, and for measuring polarization. Our interdisciplinary team brings together computer scientists at [Mila](https://mila.quebec/en/) and political scientists at the [Université de Montréal](https://pol.umontreal.ca/accueil/). You can find out more about these projects [here](https://www.ai4.institute/publications/).
 
 Parliamentary Voting Records and Canadian Political Development 
 ======
